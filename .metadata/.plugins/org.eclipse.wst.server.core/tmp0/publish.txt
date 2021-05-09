@@ -1,0 +1,5 @@
+#GlassFish 3
+#Sat May 08 08:38:09 CEST 2021
+org.eclipse.jst.j2ee.server\:bachelor2=C\:\\Users\\Tom\\VWGS\\glassfish-5.1.0\\glassfish5\\glassfish\\domains\\domain1\\eclipseApps\\bachelor2
+org.eclipse.jst.jee.server\:ba3=C\:\\Users\\Tom\\VWGS\\glassfish-5.1.0\\glassfish5\\glassfish\\domains\\domain1\\eclipseApps\\ba3
+org.eclipse.jst.jee.server\:Bachelor=C\:\\Users\\Tom\\VWGS\\glassfish-5.1.0\\glassfish5\\glassfish\\domains\\domain1\\eclipseApps\\Bachelor
